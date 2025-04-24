@@ -11,11 +11,11 @@ An eCommerce SQL dataset usually contains structured data from an online store, 
 - Payments – Payment details (order ID, amount, method, payment date).
 - Reviews – Customer feedback (product ID, rating, review text, date).
 
- Steps Completed (Manual Table Creation)
+ Steps Completed (Manual Table Creation):
 
 1. Designed the database schema based on a typical eCommerce structure.
 2. Manually created tables using SQL:
-   - `customers`, `orders`, `order_items`, `products`, `payments`, `reviews`
+   - customers, orders, order_items, products, payments, reviews
 3. Defined relationships using primary and foreign keys.
 4. Inserted sample data to simulate realistic eCommerce transactions.
 5. Tested data integrity and ensured the schema supports meaningful queries.
@@ -24,6 +24,5 @@ An eCommerce SQL dataset usually contains structured data from an online store, 
    - Sales performance
    - Product popularity
    - payment order status
- 
 
  
