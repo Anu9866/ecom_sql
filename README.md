@@ -2,8 +2,7 @@
 
 eCommerce SQL Dataset - Overview
 
-An eCommerce SQL dataset usually contains structured data from an online store, designed to analyze customer behavior, sales performance, product trends, and operations. Common tables include:
-
+An eCommerce SQL dataset usually contains structured data from an online store, designed to analyze customer behavior, sales performance, product trends, and operations. Tables include:
 - Customers – Info about users (ID, name, location, signup date).
 - Orders– Purchase records (order ID, customer ID, date, status).
 - Order_Items – Details of each product in an order (order ID, product ID, quantity, price).
